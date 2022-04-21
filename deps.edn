@@ -1,0 +1,6 @@
+{:paths ["src"]
+ :deps  {funcool/promesa {:mvn/version "4.0.2"}}
+
+ :mvn/repos
+ {"central" {:url "https://repo1.maven.org/maven2/"}
+  "clojars" {:url "https://clojars.org/repo"}}}
